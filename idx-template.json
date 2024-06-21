@@ -1,0 +1,6 @@
+{
+    "name": "Gleam",
+    "description": "Barebones template for Gleam development",
+    "icon": "https://gleam.run/images/lucy/lucydebugfail.svg",
+    "params": []
+}
